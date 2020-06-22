@@ -2,12 +2,15 @@
 
 **Homework Assignment #1**
 
-The client requested a codebase that follows accessibility standards so that their site is optimized for search engines.
+The client, Horiseon, requested a codebase that follows accessibility standards so that their site is optimized for search engines.
 
-**The page was refactored to:**
-* follow accessibility standards
-* follow HTML5 semantics
-* consolidated classes in the CSS stylesheet
-* add image alt tags
+**The page was refactored to include:**
+* accessibility standards
+* HTML5 semantics
+* consolidated classes & added comments in the CSS stylesheet
+* image alt tags
+* updated title
 
 _Link to deployed website:_ https://kdunphe.github.io/UNHBootcamp-01-code-refactor/
+
+![Horiseon-Screenshot](/assets/images/Horiseon-Screenshot.jpg)
